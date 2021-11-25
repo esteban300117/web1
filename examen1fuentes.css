@@ -1,0 +1,49 @@
+body{
+    background-color: turquoise;
+    padding: 5px;
+}
+
+.letrasgen{
+    font-size: 2em;
+}
+
+.tabla1{
+    background-color: yellowgreen;
+    border: white;
+}
+.td1{
+    width: 240px;
+}
+.td2{
+    width: 1065px;
+}
+
+
+.tabla2{
+    background-color:orangered;
+}
+.td3{
+    width: 490px;
+    height: 470px;
+}
+.td4{
+    width: 815px;
+    height: 470px;
+}
+
+
+.tabla3{
+    background-color: purple;
+    width: 1335px;
+}
+
+
+.letrasblancas{
+    color: white;
+}
+.bordeblanco{
+    border: white 5px solid;
+}
+.textocentro{
+    text-align: center;
+}
