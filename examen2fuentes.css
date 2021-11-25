@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(42, 165, 144);
+}
+.letrablanca{
+    color: white;
+}
+.bordeblanco{
+    border: white 5px solid;
+}
+.textocentro{
+    text-align: center;
+}
+.letramedia{
+    font-size: 2em;
+}
+.letragrande{
+    font-size: 3em;
+}
+
+.div1{
+    border: white 5px dashed;
+}
+
+.tabla1{
+    background-color: aqua;
+    padding: 2px;
+    border: tomato 5px dashed;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 1200px;
+    height: 300px;
+}
+
+.tabla2{
+    background-color: rgb(187, 38, 187);
+}
+.td1{
+    width: 300px;
+    height: 50px;
+}
+.td2{
+    width: 1000px;
+    height: 50px;
+}
+
+
+.largo{
+    width: 100%;
+}
